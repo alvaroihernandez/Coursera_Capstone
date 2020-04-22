@@ -1,0 +1,4 @@
+#  This notebook will be mainly used for the capstone project of the Applied Data Science course.
+import pandas as pnd
+import numpy as np
+print ("Hello Capstone Project Course")
